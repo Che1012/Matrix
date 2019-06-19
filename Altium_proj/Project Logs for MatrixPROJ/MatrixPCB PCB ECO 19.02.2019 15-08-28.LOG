@@ -1,0 +1,70 @@
+Added Pin To Net: NetName=NetC7_2 Pin=C1-2
+Added Pin To Net: NetName=NetC7_2 Pin=C2-2
+Added Pin To Net: NetName=NetC7_2 Pin=C4-2
+Added Pin To Net: NetName=NetC7_2 Pin=C5-2
+Added Pin To Net: NetName=NetC7_2 Pin=C11-2
+Added Pin To Net: NetName=NetC7_2 Pin=C12-2
+Added Pin To Net: NetName=NetC7_2 Pin=C13-2
+Added Pin To Net: NetName=NetC7_2 Pin=C14-2
+Added Pin To Net: NetName=VDDIO Pin=C17-2
+Added Pin To Net: NetName=VDDIO Pin=C18-2
+Added Pin To Net: NetName=VDDIO Pin=C21-2
+Added Pin To Net: NetName=VDDIO Pin=C22-2
+Added Pin To Net: NetName=NetC7_2 Pin=D1-2
+Added Pin To Net: NetName=NetC7_2 Pin=D1-8
+Added Pin To Net: NetName=VDDIO Pin=D1-14
+Added Pin To Net: NetName=NetC7_2 Pin=D1-24
+Added Pin To Net: NetName=VDDIO Pin=D1-29
+Added Pin To Net: NetName=NetC7_2 Pin=D1-41
+Added Pin To Net: NetName=NetC7_2 Pin=D2-1
+Added Pin To Net: NetName=VDDIO Pin=P1-1
+Added Pin To Net: NetName=VDDIO Pin=P2-1
+Added Pin To Net: NetName=VDDIO Pin=P3-1
+Added Pin To Net: NetName=NetC7_2 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=X1-6
+Added Pin To Net: NetName=GND Pin=X2-11
+Added Pin To Net: NetName=GND Pin=X2-16
+Change Net Name : Old Net Name=NetC7_2 New Net Name=VDD
+Change Net Name : Old Net Name=NetD1_9 New Net Name=DOUT4
+Change Net Name : Old Net Name=NetD1_10 New Net Name=DOUT5
+Change Net Name : Old Net Name=NetD1_11 New Net Name=DOUT6
+Change Net Name : Old Net Name=NetD1_12 New Net Name=DOUT7
+Added Pin To Net: NetName=DOUT0 Pin=D1-3
+Added Pin To Net: NetName=DOUT0 Pin=X2-28
+Added Net: Name=DOUT0
+Added Pin To Net: NetName=DOUT1 Pin=D1-4
+Added Pin To Net: NetName=DOUT1 Pin=X2-27
+Added Net: Name=DOUT1
+Added Pin To Net: NetName=DOUT2 Pin=D1-5
+Added Pin To Net: NetName=DOUT2 Pin=X2-26
+Added Net: Name=DOUT2
+Added Pin To Net: NetName=DOUT3 Pin=D1-6
+Added Pin To Net: NetName=DOUT3 Pin=X2-25
+Added Net: Name=DOUT3
+Added Pin To Net: NetName=DOUT_LSB0 Pin=D1-15
+Added Pin To Net: NetName=DOUT_LSB0 Pin=X2-21
+Added Net: Name=DOUT_LSB0
+Added Pin To Net: NetName=DOUT_LSB1 Pin=D1-16
+Added Pin To Net: NetName=DOUT_LSB1 Pin=X2-20
+Added Net: Name=DOUT_LSB1
+Added Pin To Net: NetName=EXTCLK Pin=D1-45
+Added Pin To Net: NetName=EXTCLK Pin=X2-32
+Added Net: Name=EXTCLK
+Added Pin To Net: NetName=NetD1_25 Pin=D1-25
+Added Pin To Net: NetName=NetD1_25 Pin=P3-2
+Added Net: Name=NetD1_25
+Added Pin To Net: NetName=NetD1_26 Pin=D1-26
+Added Pin To Net: NetName=NetD1_26 Pin=P2-2
+Added Net: Name=NetD1_26
+Added Pin To Net: NetName=RES_BAR Pin=D1-22
+Added Pin To Net: NetName=RES_BAR Pin=X2-31
+Added Net: Name=RES_BAR
+Added Pin To Net: NetName=SCLK Pin=D1-44
+Added Pin To Net: NetName=SCLK Pin=R2-2
+Added Pin To Net: NetName=SCLK Pin=X2-30
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SDATA Pin=D1-39
+Added Pin To Net: NetName=SDATA Pin=R1-2
+Added Pin To Net: NetName=SDATA Pin=X2-36
+Added Net: Name=SDATA
+Added Room: Name=MatrixSCH

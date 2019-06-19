@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator= NewDesignator=D1
+Change Component Designator: OldDesignator= NewDesignator=X1
+Change Component Designator: OldDesignator= NewDesignator=X2
+Change Component Designator: OldDesignator=LED NewDesignator=J1
+Change Component Designator: OldDesignator=Vdd NewDesignator=P1
+Change Component Designator: OldDesignator=Vdd NewDesignator=P2
+Change Component Designator: OldDesignator=Vdd NewDesignator=P3
+Added Component: Designator=J2(PIN1)
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Member To Class: ClassName=MatrixSCH Member=Component D1 MT9M131
+Added Member To Class: ClassName=MatrixSCH Member=Component J2 LED_GND
+Added Member To Class: ClassName=MatrixSCH Member=Component P1 Header 3
+Added Member To Class: ClassName=MatrixSCH Member=Component P2 Header 3
+Added Member To Class: ClassName=MatrixSCH Member=Component X1 POWER
+Added Member To Class: ClassName=MatrixSCH Member=Component X2 D-SUB_FEMALE
+Added Room: Name=MatrixSCH

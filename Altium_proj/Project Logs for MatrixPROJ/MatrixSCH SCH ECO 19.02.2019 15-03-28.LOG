@@ -1,0 +1,4 @@
+Remove Pin=X2-11 From Net=GND
+Remove Pin=X2-16 From Net=GND
+Change Pin Designator/Name:  Old Designator=X2-4 Old Name=P2.2 New Designator =P2.1 New Name=23
+Change Pin Designator/Name:  Old Designator=X2-23 Old Name=P2.1 New Designator =P2.2 New Name=4

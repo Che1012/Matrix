@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=GND-1
+Removed Pin From Net: NetName=NetD1_27 Pin=J1-1
+Removed Member From Class: ClassName=MatrixSCH Member=GND
+Removed Member From Class: ClassName=MatrixSCH Member=J1
+Added Component: Designator=P5(HDR1X2)
+Added Pin To Net: NetName=NetD1_27 Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Member To Class: ClassName=MatrixSCH Member=Component P5 Header 2
+Added Room: Name=MatrixSCH

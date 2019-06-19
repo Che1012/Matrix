@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=DOUT3 Pin=X2-9
+Removed Pin From Net: NetName=DOUT2 Pin=X2-27
+Change Component Designator: OldDesignator=LED NewDesignator=J1
+Change Component Designator: OldDesignator=Vcc NewDesignator=P1
+Change Component Designator: OldDesignator=Vcc NewDesignator=P2
+Change Component Designator: OldDesignator=Vcc NewDesignator=P3
+Added Pin To Net: NetName=DOUT2 Pin=X2-9
+Added Pin To Net: NetName=DOUT3 Pin=X2-27
+Added Member To Class: ClassName=MatrixSCH Member=Component P2 Header 3
+Added Member To Class: ClassName=MatrixSCH Member=Component P3 Header 3

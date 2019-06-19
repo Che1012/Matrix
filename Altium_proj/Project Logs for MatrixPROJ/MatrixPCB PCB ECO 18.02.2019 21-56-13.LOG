@@ -1,0 +1,227 @@
+Added Component: Designator=C1(CAP_SMALL)
+Added Component: Designator=C2(CAP_SMALL)
+Added Component: Designator=C3(TYPE_C)
+Added Component: Designator=C4(CAP_SMALL)
+Added Component: Designator=C5(CAP_SMALL)
+Added Component: Designator=C6(CAP_SMALL)
+Added Component: Designator=C7(CAP_SMALL)
+Added Component: Designator=C8(CAP_SMALL)
+Added Component: Designator=C9(CAP_SMALL)
+Added Component: Designator=C10(CAP_SMALL)
+Added Component: Designator=C11(CAP_SMALL)
+Added Component: Designator=C12(CAP_SMALL)
+Added Component: Designator=C13(CAP_SMALL)
+Added Component: Designator=C14(CAP_SMALL)
+Added Component: Designator=C15(TYPE_C)
+Added Component: Designator=C16(CAP_SMALL)
+Added Component: Designator=C17(CAP_SMALL)
+Added Component: Designator=C18(CAP_SMALL)
+Added Component: Designator=C19(CAP_SMALL)
+Added Component: Designator=C20(CAP_SMALL)
+Added Component: Designator=C21(CAP_SMALL)
+Added Component: Designator=C22(CAP_SMALL)
+Added Component: Designator=C23(CAP_SMALL)
+Added Component: Designator=C24(CAP_SMALL)
+Added Component: Designator=C25(TYPE_C)
+Added Component: Designator=C26(CAP_SMALL)
+Added Component: Designator=D1(LCC48)
+Added Component: Designator=D2(D2PACK)
+Added Component: Designator=D3(D2PACK)
+Added Component: Designator=D4(D2PACK)
+Added Component: Designator=P1(HDR1X3)
+Added Component: Designator=P2(HDR1X3)
+Added Component: Designator=P3(HDR1X3)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(PV36W)
+Added Component: Designator=R4(0805)
+Added Component: Designator=R5(PV36W)
+Added Component: Designator=R6(0805)
+Added Component: Designator=R7(PV36W)
+Added Component: Designator=R8(0805)
+Added Component: Designator=X1(POWER)
+Added Component: Designator=X2(CHEAP_CONN_FEMALE)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetC4_2 Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC7_2 Pin=C8-2
+Added Pin To Net: NetName=VAA Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=VAA Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NetC11_2 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=NetC13_2 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=VCC Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=NetC17_2 Pin=C18-2
+Added Pin To Net: NetName=VDDIO Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=VDDIO Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=NetC21_2 Pin=C22-2
+Added Pin To Net: NetName=VDDIO Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=VDDIO Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=VCC Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetC1_2 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D1-7
+Added Pin To Net: NetName=NetC4_2 Pin=D1-8
+Added Pin To Net: NetName=NetD1_9 Pin=D1-9
+Added Pin To Net: NetName=NetD1_10 Pin=D1-10
+Added Pin To Net: NetName=NetD1_11 Pin=D1-11
+Added Pin To Net: NetName=NetD1_12 Pin=D1-12
+Added Pin To Net: NetName=GND Pin=D1-13
+Added Pin To Net: NetName=NetC17_2 Pin=D1-14
+Added Pin To Net: NetName=NetD1_15 Pin=D1-15
+Added Pin To Net: NetName=NetD1_16 Pin=D1-16
+Added Pin To Net: NetName=GND Pin=D1-17
+Added Pin To Net: NetName=NetC7_2 Pin=D1-18
+Added Pin To Net: NetName=NetD1_19 Pin=D1-19
+Added Pin To Net: NetName=LV Pin=D1-20
+Added Pin To Net: NetName=FV Pin=D1-21
+Added Pin To Net: NetName=GND Pin=D1-23
+Added Pin To Net: NetName=NetC11_2 Pin=D1-24
+Added Pin To Net: NetName=VDD Pin=D1-25
+Added Pin To Net: NetName=VDD Pin=D1-26
+Added Pin To Net: NetName=GND Pin=D1-28
+Added Pin To Net: NetName=NetC21_2 Pin=D1-29
+Added Pin To Net: NetName=VAA Pin=D1-31
+Added Pin To Net: NetName=VAA Pin=D1-32
+Added Pin To Net: NetName=GND Pin=D1-33
+Added Pin To Net: NetName=GND Pin=D1-34
+Added Pin To Net: NetName=VAA Pin=D1-35
+Added Pin To Net: NetName=GND Pin=D1-36
+Added Pin To Net: NetName=VDDIO Pin=D1-37
+Added Pin To Net: NetName=GND Pin=D1-38
+Added Pin To Net: NetName=NetD1_39 Pin=D1-39
+Added Pin To Net: NetName=GND Pin=D1-40
+Added Pin To Net: NetName=NetC13_2 Pin=D1-41
+Added Pin To Net: NetName=NetD1_44 Pin=D1-44
+Added Pin To Net: NetName=GND Pin=D1-46
+Added Pin To Net: NetName=VDDIO Pin=D1-47
+Added Pin To Net: NetName=PIXCLK Pin=D1-48
+Added Pin To Net: NetName=VDD Pin=D2-1
+Added Pin To Net: NetName=NetC3_2 Pin=D2-2
+Added Pin To Net: NetName=VCC Pin=D2-3
+Added Pin To Net: NetName=VDDIO Pin=D3-1
+Added Pin To Net: NetName=NetC15_2 Pin=D3-2
+Added Pin To Net: NetName=VCC Pin=D3-3
+Added Pin To Net: NetName=VAA Pin=D4-1
+Added Pin To Net: NetName=NetC25_2 Pin=D4-2
+Added Pin To Net: NetName=VCC Pin=D4-3
+Added Pin To Net: NetName=VDD Pin=P1-1
+Added Pin To Net: NetName=NetD1_19 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=VDD Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=VDD Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=VDDIO Pin=R1-1
+Added Pin To Net: NetName=NetD1_39 Pin=R1-2
+Added Pin To Net: NetName=VDDIO Pin=R2-1
+Added Pin To Net: NetName=NetD1_44 Pin=R2-2
+Added Pin To Net: NetName=NetC3_2 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=VDD Pin=R4-1
+Added Pin To Net: NetName=NetC3_2 Pin=R4-2
+Added Pin To Net: NetName=NetC15_2 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=VDDIO Pin=R6-1
+Added Pin To Net: NetName=NetC15_2 Pin=R6-2
+Added Pin To Net: NetName=NetC25_2 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=VAA Pin=R8-1
+Added Pin To Net: NetName=NetC25_2 Pin=R8-2
+Added Pin To Net: NetName=VCC Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Pin To Net: NetName=GND Pin=X1-5
+Added Pin To Net: NetName=PIXCLK Pin=X2-2
+Added Pin To Net: NetName=LV Pin=X2-3
+Added Pin To Net: NetName=NetD1_16 Pin=X2-4
+Added Pin To Net: NetName=NetD1_15 Pin=X2-5
+Added Pin To Net: NetName=GND Pin=X2-6
+Added Pin To Net: NetName=NetD1_12 Pin=X2-7
+Added Pin To Net: NetName=NetD1_11 Pin=X2-8
+Added Pin To Net: NetName=NetD1_10 Pin=X2-9
+Added Pin To Net: NetName=NetD1_9 Pin=X2-10
+Added Pin To Net: NetName=FV Pin=X2-23
+Added Pin To Net: NetName=GND Pin=X2-24
+Added Pin To Net: NetName=GND Pin=X2-29
+Added Pin To Net: NetName=GND Pin=X2-34
+Added Pin To Net: NetName=GND Pin=X2-38
+Added Pin To Net: NetName=GND Pin=X2-39
+Added Member To Class: ClassName=MatrixSCH Member=Component C1 1,0
+Added Member To Class: ClassName=MatrixSCH Member=Component C2 0,1
+Added Member To Class: ClassName=MatrixSCH Member=Component C3 10,0
+Added Member To Class: ClassName=MatrixSCH Member=Component C4 1,0
+Added Member To Class: ClassName=MatrixSCH Member=Component C5 0,1
+Added Member To Class: ClassName=MatrixSCH Member=Component C6 0,1
+Added Member To Class: ClassName=MatrixSCH Member=Component C7 1,0
+Added Member To Class: ClassName=MatrixSCH Member=Component C8 0,1
+Added Member To Class: ClassName=MatrixSCH Member=Component C9 0,1
+Added Member To Class: ClassName=MatrixSCH Member=Component C10 1,0
+Added Member To Class: ClassName=MatrixSCH Member=Component C11 1,0
+Added Member To Class: ClassName=MatrixSCH Member=Component C12 0,1
+Added Member To Class: ClassName=MatrixSCH Member=Component C13 1,0
+Added Member To Class: ClassName=MatrixSCH Member=Component C14 0,1
+Added Member To Class: ClassName=MatrixSCH Member=Component C15 10,0
+Added Member To Class: ClassName=MatrixSCH Member=Component C16 0,1
+Added Member To Class: ClassName=MatrixSCH Member=Component C17 1,0
+Added Member To Class: ClassName=MatrixSCH Member=Component C18 0,1
+Added Member To Class: ClassName=MatrixSCH Member=Component C19 0,1
+Added Member To Class: ClassName=MatrixSCH Member=Component C20 1,0
+Added Member To Class: ClassName=MatrixSCH Member=Component C21 1,0
+Added Member To Class: ClassName=MatrixSCH Member=Component C22 0,1
+Added Member To Class: ClassName=MatrixSCH Member=Component C23 0,1
+Added Member To Class: ClassName=MatrixSCH Member=Component C24 1,0
+Added Member To Class: ClassName=MatrixSCH Member=Component C25 10,0
+Added Member To Class: ClassName=MatrixSCH Member=Component C26 0,1
+Added Member To Class: ClassName=MatrixSCH Member=Component D1 MT9M131
+Added Member To Class: ClassName=MatrixSCH Member=Component D2 LM317
+Added Member To Class: ClassName=MatrixSCH Member=Component D3 LM317
+Added Member To Class: ClassName=MatrixSCH Member=Component D4 LM317
+Added Member To Class: ClassName=MatrixSCH Member=Component P1 Header 3
+Added Member To Class: ClassName=MatrixSCH Member=Component P2 Header 3
+Added Member To Class: ClassName=MatrixSCH Member=Component P3 Header 3
+Added Member To Class: ClassName=MatrixSCH Member=Component R1 1,5k
+Added Member To Class: ClassName=MatrixSCH Member=Component R2 1,5k
+Added Member To Class: ClassName=MatrixSCH Member=Component R3 1k
+Added Member To Class: ClassName=MatrixSCH Member=Component R4 240
+Added Member To Class: ClassName=MatrixSCH Member=Component R5 1k
+Added Member To Class: ClassName=MatrixSCH Member=Component R6 240
+Added Member To Class: ClassName=MatrixSCH Member=Component R7 1k
+Added Member To Class: ClassName=MatrixSCH Member=Component R8 240
+Added Member To Class: ClassName=MatrixSCH Member=Component X1 POWER
+Added Member To Class: ClassName=MatrixSCH Member=Component X2 D-SUB_FEMALE
+Added Room: Name=MatrixSCH

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=RES_BAR Pin=X2-31
+Added Component: Designator=J?(PIN1)
+Added Component: Designator=P?(HDR2X3)
+Added Pin To Net: NetName=VDDIO Pin=P?-1
+Added Pin To Net: NetName=RES_BAR Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=NetD1_27 Pin=D1-27
+Added Pin To Net: NetName=NetD1_27 Pin=J?-1
+Added Net: Name=NetD1_27
+Added Pin To Net: NetName=RES_BAR_OUT Pin=P?-4
+Added Pin To Net: NetName=RES_BAR_OUT Pin=X2-31
+Added Net: Name=RES_BAR_OUT
+Added Member To Class: ClassName=MatrixSCH Member=Component J? LED
+Added Member To Class: ClassName=MatrixSCH Member=Component P? Header 3X2

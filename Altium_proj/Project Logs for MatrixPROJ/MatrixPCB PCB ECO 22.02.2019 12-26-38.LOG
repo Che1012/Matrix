@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RES_BAR_OUT Pin=P4-4
+Removed Pin From Net: NetName=GND Pin=P4-5
+Added Pin To Net: NetName=GND Pin=P4-4
+Added Pin To Net: NetName=RES_BAR_OUT Pin=P4-5

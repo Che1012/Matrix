@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="18008000">
+<Project Type="Project" LVVersion="13008000">
 	<Property Name="CCSymbols" Type="Str"></Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
@@ -555,15 +555,14 @@ FIFO"ControlLogic=0;NumberOfElements=15;Type=2;ReadArbs=Arbitrate if Multiple Re
 &lt;/Cluster&gt;
 &lt;/Array&gt;
 Local_Supply_SelectArbitrationForOutputData=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;resource=/IO Module/SignalList/Local_Supply_Select;0;WriteMethodType=U8MemoryActual Number of Elements=131072;ReadArbs=1;WriteArbs=1;Implementation=3;DataType=1000800000000001000940050002553800000100000000000000;InitDataHash=;DRAM Selection=DramBank0;DRAM Max Outstanding Requests=32;DRAM Include Byte Enables=FALSE;DRAM Grant Time=50;Interface Configuration=Read A-Write B;Multiple Clock Domains=FALSE;Memory Latency=0PXI-7953R/RioClk40/falsefalseFPGA_EXECUTION_MODEFPGA_TARGETFPGA_TARGET_CLASSPXI_7953RFPGA_TARGET_FAMILYVIRTEX5TARGET_TYPEFPGA</Property>
+			<Property Name="Item Name" Type="Str">FPGA Target</Property>
 			<Property Name="NI.FPGA.79XXR.ConfiguredIOModule" Type="Str">IOModuleID:0x10937418,Version:1.0.0,National Instruments::NI 6581,SyncClock:None</Property>
 			<Property Name="NI.LV.FPGA.CLIPDeclarations[0].Category" Type="Str">FlexRIO-IOModule</Property>
 			<Property Name="NI.LV.FPGA.CLIPDeclarations[0].InvalidPath" Type="Str"></Property>
 			<Property Name="NI.LV.FPGA.CLIPDeclarations[0].Name" Type="Str">NI 6581 Channel</Property>
 			<Property Name="NI.LV.FPGA.CLIPDeclarationsArraySize" Type="Int">1</Property>
-			<Property Name="NI.LV.FPGA.CLIPDeclarationSet" Type="Xml">
-<CLIPDeclarationSet>
-   <CLIPDeclarationCategory name="FlexRIO-IOModule">
-      <CLIPDeclaration name="NI 6581 Channel">
+			<Property Name="NI.LV.FPGA.CLIPDeclarationSet" Type="Xml"><CLIPDeclarationSet name="CLIPDeclarationSet">
+<CLIPDeclarationCategory name="FlexRIO-IOModule"><CLIPDeclaration name="NI 6581 Channel">
          <CLIPVersion>1.0.0</CLIPVersion>
          <CompatibleCLIPSocketList>
             <Socket>FlexRIO-IOModule</Socket>
@@ -1797,8 +1796,7 @@ Local_Supply_SelectArbitrationForOutputData=NeverArbitrate;NumberOfSyncRegisters
                </SignalList>
             </Interface>
          </InterfaceList>
-      </CLIPDeclaration>
-   </CLIPDeclarationCategory>
+      </CLIPDeclaration></CLIPDeclarationCategory>
 </CLIPDeclarationSet></Property>
 			<Property Name="NI.LV.FPGA.CompileConfigString" Type="Str">PXI-7953R/RioClk40/falsefalseFPGA_EXECUTION_MODEFPGA_TARGETFPGA_TARGET_CLASSPXI_7953RFPGA_TARGET_FAMILYVIRTEX5TARGET_TYPEFPGA</Property>
 			<Property Name="NI.LV.FPGA.Version" Type="Int">6</Property>
@@ -4499,7 +4497,6 @@ Local_Supply_SelectArbitrationForOutputData=NeverArbitrate;NumberOfSyncRegisters
 			<Item Name="Memory" Type="FPGA Memory Block">
 				<Property Name="FPGA.PersistentID" Type="Str">{22C0BC31-4A87-470A-8C00-44F2FC8BC852}</Property>
 				<Property Name="fullEmulation" Type="Bool">false</Property>
-				<Property Name="Memory Latency" Type="UInt">0</Property>
 				<Property Name="Multiple Clock Domains" Type="Bool">false</Property>
 				<Property Name="NI.LV.FPGA.CompileConfigString" Type="Str">Actual Number of Elements=131072;ReadArbs=1;WriteArbs=1;Implementation=3;DataType=1000800000000001000940050002553800000100000000000000;InitDataHash=;DRAM Selection=DramBank0;DRAM Max Outstanding Requests=32;DRAM Include Byte Enables=FALSE;DRAM Grant Time=50;Interface Configuration=Read A-Write B;Multiple Clock Domains=FALSE;Memory Latency=0</Property>
 				<Property Name="NI.LV.FPGA.MEMORY.ActualNumberOfElements" Type="UInt">131072</Property>
@@ -4517,7 +4514,7 @@ Local_Supply_SelectArbitrationForOutputData=NeverArbitrate;NumberOfSyncRegisters
 				<Property Name="NI.LV.FPGA.MEMORY.Type" Type="UInt">3</Property>
 				<Property Name="NI.LV.FPGA.ScriptConfigString" Type="Str">Actual Number of Elements=131072;ReadArbs=1;WriteArbs=1;Implementation=3;DataType=1000800000000001000940050002553800000100000000000000;InitDataHash=;DRAM Selection=DramBank0;DRAM Max Outstanding Requests=32;DRAM Include Byte Enables=FALSE;DRAM Grant Time=50;Interface Configuration=Read A-Write B;Multiple Clock Domains=FALSE;Memory Latency=0Persist Memory ValuesFALSE;</Property>
 				<Property Name="NI.LV.FPGA.Valid" Type="Bool">true</Property>
-				<Property Name="NI.LV.FPGA.Version" Type="Int">10</Property>
+				<Property Name="NI.LV.FPGA.Version" Type="Int">9</Property>
 				<Property Name="Type Descriptor" Type="Str">1000800000000001000940050002553800000100000000000000</Property>
 			</Item>
 			<Item Name="FIFO" Type="FPGA FIFO">
@@ -5126,11 +5123,10 @@ Local_Supply_SelectArbitrationForOutputData=NeverArbitrate;NumberOfSyncRegisters
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 			</Item>
+			<Item Name="Matrix_FPGATarget_Matrixtarget_hwzlcigaD4Q.lvbitx" Type="Document" URL="../FPGA Bitfiles/Matrix_FPGATarget_Matrixtarget_hwzlcigaD4Q.lvbitx"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Matrix_FPGATarget_Matrixtarget_hwzlcigaD4Q.lvbitx" Type="Document" URL="../13/Matrix Folder/Users/Simba1012/Desktop/Matrix/LV_proj/FPGA Bitfiles/Matrix_FPGATarget_Matrixtarget_hwzlcigaD4Q.lvbitx"/>
-			<Item Name="Matrix_FPGATarget_Matrixtarget_hwzlcigaD4Q.lvbitx" Type="Document" URL="../FPGA Bitfiles/Matrix_FPGATarget_Matrixtarget_hwzlcigaD4Q.lvbitx"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

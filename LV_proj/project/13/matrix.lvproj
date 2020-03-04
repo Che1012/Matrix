@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="18008000">
+<Project Type="Project" LVVersion="13008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -557,15 +557,14 @@ FIFO"ControlLogic=0;NumberOfElements=131071;Type=2;ReadArbs=Arbitrate if Multipl
 &lt;/Cluster&gt;
 &lt;/Array&gt;
 Local_Supply_SelectArbitrationForOutputData=NeverArbitrate;NumberOfSyncRegistersForOutputData=1;resource=/IO Module/SignalList/Local_Supply_Select;0;WriteMethodType=U8PXI-7953R/RioClk40/falsefalseFLEXRIO_IO_MODELNI_6581FPGA_EXECUTION_MODEFPGA_TARGETFPGA_TARGET_CLASSPXI_7953RFPGA_TARGET_FAMILYVIRTEX5TARGET_TYPEFPGA/[rSeriesConfig.Begin][rSeriesConfig.End]</Property>
+			<Property Name="Item Name" Type="Str">FPGA Target</Property>
 			<Property Name="NI.FPGA.79XXR.ConfiguredIOModule" Type="Str">IOModuleID:0x10937418,Version:1.0.0,National Instruments::NI 6581,SyncClock:None</Property>
 			<Property Name="NI.LV.FPGA.CLIPDeclarations[0].Category" Type="Str">FlexRIO-IOModule</Property>
 			<Property Name="NI.LV.FPGA.CLIPDeclarations[0].InvalidPath" Type="Str"></Property>
 			<Property Name="NI.LV.FPGA.CLIPDeclarations[0].Name" Type="Str">NI 6581 Channel</Property>
 			<Property Name="NI.LV.FPGA.CLIPDeclarationsArraySize" Type="Int">1</Property>
-			<Property Name="NI.LV.FPGA.CLIPDeclarationSet" Type="Xml">
-<CLIPDeclarationSet>
-   <CLIPDeclarationCategory name="FlexRIO-IOModule">
-      <CLIPDeclaration name="NI 6581 Channel">
+			<Property Name="NI.LV.FPGA.CLIPDeclarationSet" Type="Xml"><CLIPDeclarationSet name="CLIPDeclarationSet">
+<CLIPDeclarationCategory name="FlexRIO-IOModule"><CLIPDeclaration name="NI 6581 Channel">
          <CLIPVersion>1.0.0</CLIPVersion>
          <CompatibleCLIPSocketList>
             <Socket>FlexRIO-IOModule</Socket>
@@ -1799,8 +1798,7 @@ Local_Supply_SelectArbitrationForOutputData=NeverArbitrate;NumberOfSyncRegisters
                </SignalList>
             </Interface>
          </InterfaceList>
-      </CLIPDeclaration>
-   </CLIPDeclarationCategory>
+      </CLIPDeclaration></CLIPDeclarationCategory>
 </CLIPDeclarationSet></Property>
 			<Property Name="NI.LV.FPGA.CompileConfigString" Type="Str">PXI-7953R/RioClk40/falsefalseFLEXRIO_IO_MODELNI_6581FPGA_EXECUTION_MODEFPGA_TARGETFPGA_TARGET_CLASSPXI_7953RFPGA_TARGET_FAMILYVIRTEX5TARGET_TYPEFPGA</Property>
 			<Property Name="NI.LV.FPGA.Version" Type="Int">6</Property>

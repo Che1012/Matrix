@@ -1,0 +1,40 @@
+Time 	 Glitch Number 	 Registers 
+04 13:02:29:,622	0	
+04 13:02:34:,332	2	p0#R9 rd 192  df  00219 p2#R242 rd A880  df  0 
+04 13:02:53:,756	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:02:58:,211	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:03:02:,771	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:03:07:,319	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:03:11:,780	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:03:16:,367	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:03:20:,885	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:03:25:,371	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:03:29:,959	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:03:34:,448	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:03:38:,977	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:03:43:,453	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:03:47:,942	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:03:52:,416	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:03:56:,934	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:04:01:,460	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:04:05:,980	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:04:10:,458	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:04:15:,000	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:04:19:,476	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:04:23:,995	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:04:28:,468	3	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 p2#R242 rd A880  df  0 
+04 13:04:35:,481	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:04:39:,994	2	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 
+04 13:04:41:,782	3	p0#R4 rd 1E7  df  00500 p1#R58 rd 300  df  200 p2#R2 rd FFFF  df  6E 
+04 13:04:46:,288	3	p0#R0 rd FFFF  df  0143A p0#R1 rd FFFF  df  0000C p0#R2 rd FFFF  df  0001E 
+04 13:04:48:,696	2	p0#R9 rd 192  df  00219 p2#R2 rd FFFF  df  6E 
+04 13:04:53:,163	3	p0#R0 rd FFFF  df  0143A p0#R1 rd FFFF  df  0000C p0#R2 rd FFFF  df  0001E 
+04 13:04:57:,083	2	p0#R9 rd 192  df  00219 p2#R139 rd 1BC  df  3BD 
+04 13:05:01:,570	3	p0#R0 rd FFFF  df  0143A p0#R1 rd FFFF  df  0000C p0#R2 rd FFFF  df  0001E 
+04 13:05:06:,077	1	p0#R9 rd 192  df  00219 
+04 13:05:10:,564	1	p0#R9 rd 192  df  00219 
+04 13:05:11:,261	4	p0#R9 rd 192  df  00219 p0#R64 rd FFFF  df  0201C p1#R5 rd FFFF  df  3 p2#R2 rd FFFF  df  6E 
+04 13:05:12:,162	6	p0#R0 rd FFFF  df  0143A p0#R1 rd FFFF  df  0000C p0#R2 rd FFFF  df  0001E p0#R117 rd FFFF  df  05634 p1#R5 rd FFFF  df  3 p2#R2 rd FFFF  df  6E 
+04 13:05:15:,417	4	p0#R0 rd FFFF  df  0143A p0#R1 rd FFFF  df  0000C p0#R2 rd FFFF  df  0001E p2#R55 rd FFFF  df  300 
+04 13:05:19:,982	3	p0#R0 rd FFFF  df  0143A p0#R1 rd FFFF  df  0000C p0#R2 rd FFFF  df  0001E 
+04 13:05:24:,242	140	p0#R9 rd 192  df  00219 p1#R155 rd 3  df  200 p1#R157 rd 3  df  24AE p1#R159 rd 3  df  0 p1#R160 rd 3  df  500 p1#R161 rd 3  df  500 p1#R162 rd 3  df  0 p1#R163 rd 3  df  400 p1#R164 rd 3  df  400 p1#R165 rd 3  df  0 p1#R166 rd 3  df  500 p1#R167 rd 3  df  280 p1#R168 rd 3  df  0 p1#R169 rd 3  df  400 p1#R170 rd 3  df  200 p1#R174 rd 3  df  504 p1#R175 rd 3  df  10 p1#R179 rd 3  df  2 p1#R180 rd 3  df  20 p1#R181 rd 3  df  101 p1#R182 rd 3  df  110B p1#R183 rd 3  df  3C27 p1#R184 rd 3  df  110A p1#R185 rd 3  df  3222 p1#R186 rd 3  df  160B p1#R187 rd 3  df  3224 p1#R188 rd 3  df  240C p2#R2 rd 3  df  6E p2#R3 rd 3  df  2923 p2#R4 rd 3  df  524 p2#R9 rd 3  df  92 p2#R10 rd 3  df  16 p2#R11 rd 3  df  8 p2#R12 rd 3  df  AB p2#R13 rd 3  df  93 p2#R14 rd 3  df  58 p2#R15 rd 3  df  4D p2#R16 rd 3  df  A9 p2#R17 rd 3  df  A0 p2#R21 rd 3  df  175 p2#R22 rd 3  df  16 p2#R23 rd 3  df  43 p2#R24 rd 3  df  C p2#R25 rd 3  df  0 p2#R26 rd 3  df  15 p2#R27 rd 3  df  1F p2#R28 rd 3  df  16 p2#R29 rd 3  df  98 p2#R30 rd 3  df  4C p2#R31 rd 3  df  A0 p2#R32 rd 3  df  C814 p2#R33 rd 3  df  8080 p2#R34 rd 3  df  D960 p2#R35 rd 3  df  D960 p2#R36 rd 3  df  7F00 p2#R38 rd 3  df  8000 p2#R39 rd 3  df  8008 p2#R40 rd 3  df  EF04 p2#R41 rd 3  df  8D73 p2#R42 rd 3  df  D0 p2#R43 rd 3  df  6020 p2#R44 rd 3  df  6020 p2#R45 rd 3  df  F0A0 p2#R46 rd 3  df  C4A p2#R47 rd 3  df  DF20 p2#R51 rd 3  df  146E p2#R54 rd 3  df  7810 p2#R55 rd 3  df  300 p2#R56 rd 3  df  440 p2#R57 rd 3  df  68C p2#R58 rd 3  df  68C p2#R59 rd 3  df  68C p2#R60 rd 3  df  68C p2#R61 rd 3  df  17D9 p2#R62 rd 3  df  1CFF p2#R70 rd 3  df  D900 p2#R87 rd 3  df  219 p2#R88 rd 3  df  284 p2#R89 rd 3  df  219 p2#R90 rd 3  df  284 p2#R92 rd 3  df  120C p2#R93 rd 3  df  1512 p2#R94 rd 3  df  683C p2#R95 rd 3  df  3008 p2#R96 rd 3  df  2 p2#R100 rd 3  df  59FC p2#R101 rd 3  df  0 p2#R103 rd 3  df  4010 p2#R104 rd 3  df  11 p2#R130 rd 3  df  3FC p2#R131 rd 3  df  301 p2#R132 rd 3  df  C1 p2#R133 rd 3  df  3A1 p2#R134 rd 3  df  3D4 p2#R135 rd 3  df  3D7 p2#R136 rd 3  df  399 p2#R137 rd 3  df  3F8 p2#R138 rd 3  df  1C p2#R139 rd 3  df  3BD p2#R140 rd 3  df  3DB p2#R141 rd 3  df  3BD p2#R142 rd 3  df  3FC p2#R143 rd 3  df  3DE p2#R144 rd 3  df  3DE p2#R145 rd 3  df  3DE p2#R146 rd 3  df  3DE p2#R147 rd 3  df  1F p2#R148 rd 3  df  41 p2#R149 rd 3  df  363 p2#R150 rd 3  df  0 p2#R152 rd 3  df  FF p2#R153 rd 3  df  1 p2#R156 rd 3  df  DF20 p2#R180 rd 3  df  20 p2#R198 rd 3  df  0 p2#R200 rd 3  df  0 p2#R203 rd 3  df  0 p2#R204 rd 3  df  0 p2#R205 rd 3  df  21A0 p2#R206 rd 3  df  1E9B p2#R207 rd 3  df  4A4A p2#R208 rd 3  df  168D p2#R209 rd 3  df  4D p2#R210 rd 3  df  0 p2#R211 rd 3  df  0 p2#R212 rd 3  df  208 p2#R213 rd 3  df  0 p2#R239 rd 3  df  8 p2#R242 rd 3  df  0 p2#R244 rd 3  df  6E p2#R246 rd 3  df  36 p2#R247 rd 3  df  D p2#R248 rd 3  df  AB p2#R249 rd 3  df  88 p2#R250 rd 3  df  48 p2#R251 rd 3  df  57 p2#R252 rd 3  df  5E p2#R253 rd 3  df  7A p2#R254 rd 3  df  503F p2#R255 rd 3  df  A880 
